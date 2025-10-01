@@ -1,2 +1,3 @@
-# credit_card_dashboard
-Power Bi
+## Credit Card Weekly Status Dashboard
+<br>
+📌 Project Objective
